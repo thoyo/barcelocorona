@@ -19,7 +19,7 @@ services:
       - private
 
   barcelocorona:
-    image: eu.gcr.io/composite-watch-259417/barcelocorona:0.0.1
+    image: barcelocorona:0.0.1
     networks:
       - private
 
