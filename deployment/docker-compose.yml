@@ -7,6 +7,8 @@ services:
       - 3000:3000
     networks:
       - private
+    depends_on:
+      - influxdb
 
   influxdb:
     image: influxdb:latest
@@ -22,6 +24,8 @@ services:
     image: barcelocorona:0.0.1
     networks:
       - private
+    depends_on:
+      - influxdb
 
 networks:
   private:
