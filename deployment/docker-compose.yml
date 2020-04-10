@@ -1,0 +1,27 @@
+version: "2"
+
+services:
+  grafana:
+    image: grafana/grafana:latest
+    ports:
+      - 3000:3000
+    networks:
+      - private
+
+  influxdb:
+    image: influxdb:latest
+    container_name: influxdb
+    ports:
+      - "8083:8083"
+      - "8086:8086"
+      - "8090:8090"
+    networks:
+      - private
+
+  barcelocorona:
+    image: eu.gcr.io/composite-watch-259417/barcelocorona:0.0.1
+    networks:
+      - private
+
+networks:
+  private:
