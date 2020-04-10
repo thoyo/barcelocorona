@@ -11,4 +11,4 @@ COPY data/ $BARCELOCORONA/data
 RUN pip install -r $BARCELOCORONA/requirements.txt
 
 WORKDIR $BARCELOCORONA
-CMD ["python", "main.py"]
+CMD ["python", "-u", "main.py"]
