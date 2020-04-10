@@ -41,9 +41,12 @@ def get_measurements(source):
 
 
 def check_if_updated(source, measurements_dictionary):
-    with open(f"data/{source}.json") as f:
-        if json.load(f) == measurements_dictionary:
-            return False
+    try:
+        with open(f"data/{source}.json", "r+") as f:
+            if json.load(f) == measurements_dictionary:
+                return False
+    except FileNotFoundError:
+        logging.info(f"First iteration, file for {source} will be created")
     with open(f"data/{source}.json", "w") as f:
         json.dump(measurements_dictionary, f)
     return True
