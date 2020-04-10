@@ -44,7 +44,7 @@ def check_if_updated(source, measurements_dictionary):
     with open(f"data/{source}.json") as f:
         if json.load(f) == measurements_dictionary:
             return False
-    with open(f"data/{source}.json", "a+") as f:
+    with open(f"data/{source}.json", "w") as f:
         json.dump(measurements_dictionary, f)
     return True
 
