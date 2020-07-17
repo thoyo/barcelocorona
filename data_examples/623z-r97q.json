@@ -1,383 +1,1105 @@
 [
   {
+    "data": "2020-07-14T00:00:00.000",
+    "nous_casos_diaris_confirmats": "91",
+    "defuncions_di_ries": "2",
+    "total_de_casos_confirmats": "65852",
+    "total_de_defuncions": "5678"
+  },
+  {
+    "data": "2020-07-13T00:00:00.000",
+    "nous_casos_diaris_confirmats": "66",
+    "defuncions_di_ries": "1",
+    "total_de_casos_confirmats": "65429",
+    "total_de_defuncions": "5677"
+  },
+  {
+    "data": "2020-07-12T00:00:00.000",
+    "nous_casos_diaris_confirmats": "42",
+    "defuncions_di_ries": "0",
+    "total_de_casos_confirmats": "65086",
+    "total_de_defuncions": "5676"
+  },
+  {
+    "data": "2020-07-11T00:00:00.000",
+    "total_de_casos_confirmats": "63888",
+    "total_de_defuncions": "5675"
+  },
+  {
+    "data": "2020-07-10T00:00:00.000",
+    "total_de_casos_confirmats": "63888",
+    "total_de_defuncions": "5675"
+  },
+  {
+    "data": "2020-07-09T00:00:00.000",
+    "nous_casos_diaris_confirmats": "81",
+    "defuncions_di_ries": "0",
+    "total_de_casos_confirmats": "63888",
+    "total_de_defuncions": "5675"
+  },
+  {
+    "data": "2020-07-08T00:00:00.000",
+    "nous_casos_diaris_confirmats": "52",
+    "defuncions_di_ries": "0",
+    "total_de_casos_confirmats": "63307",
+    "total_de_defuncions": "5675"
+  },
+  {
+    "data": "2020-07-07T00:00:00.000",
+    "nous_casos_diaris_confirmats": "52",
+    "defuncions_di_ries": "0",
+    "total_de_casos_confirmats": "63042",
+    "total_de_defuncions": "5675"
+  },
+  {
+    "data": "2020-07-06T00:00:00.000",
+    "nous_casos_diaris_confirmats": "36",
+    "defuncions_di_ries": "1",
+    "total_de_casos_confirmats": "62943",
+    "total_de_defuncions": "5675"
+  },
+  {
+    "data": "2020-07-05T00:00:00.000",
+    "nous_casos_diaris_confirmats": "18",
+    "defuncions_di_ries": "2",
+    "total_de_casos_confirmats": "62797",
+    "total_de_defuncions": "5674"
+  },
+  {
+    "data": "2020-07-04T00:00:00.000",
+    "total_de_casos_confirmats": "62057",
+    "total_de_defuncions": "5673"
+  },
+  {
+    "data": "2020-07-03T00:00:00.000",
+    "total_de_casos_confirmats": "62057",
+    "total_de_defuncions": "5673"
+  },
+  {
+    "data": "2020-07-02T00:00:00.000",
+    "nous_casos_diaris_confirmats": "42",
+    "defuncions_di_ries": "2",
+    "total_de_casos_confirmats": "62057",
+    "total_de_defuncions": "5673"
+  },
+  {
+    "data": "2020-07-01T00:00:00.000",
+    "nous_casos_diaris_confirmats": "28",
+    "defuncions_di_ries": "4",
+    "total_de_casos_confirmats": "61888",
+    "total_de_defuncions": "5673"
+  },
+  {
+    "data": "2020-06-30T00:00:00.000",
+    "nous_casos_diaris_confirmats": "17",
+    "defuncions_di_ries": "2",
+    "total_de_casos_confirmats": "61639",
+    "total_de_defuncions": "5671"
+  },
+  {
+    "data": "2020-06-29T00:00:00.000",
+    "nous_casos_diaris_confirmats": "26",
+    "defuncions_di_ries": "2",
+    "total_de_casos_confirmats": "61494",
+    "total_de_defuncions": "5670"
+  },
+  {
+    "data": "2020-06-28T00:00:00.000",
+    "nous_casos_diaris_confirmats": "11",
+    "defuncions_di_ries": "1",
+    "total_de_casos_confirmats": "61417",
+    "total_de_defuncions": "5669"
+  },
+  {
+    "data": "2020-06-27T00:00:00.000",
+    "nous_casos_diaris_confirmats": "14",
+    "defuncions_di_ries": "1",
+    "total_de_casos_confirmats": "61355",
+    "total_de_defuncions": "5669"
+  },
+  {
+    "data": "2020-06-26T00:00:00.000",
+    "nous_casos_diaris_confirmats": "72",
+    "defuncions_di_ries": "0",
+    "total_de_casos_confirmats": "61229",
+    "total_de_defuncions": "5668"
+  },
+  {
+    "data": "2020-06-25T00:00:00.000",
+    "nous_casos_diaris_confirmats": "36",
+    "defuncions_di_ries": "0",
+    "total_de_casos_confirmats": "61073",
+    "total_de_defuncions": "5668"
+  },
+  {
+    "data": "2020-06-24T00:00:00.000",
+    "nous_casos_diaris_confirmats": "11",
+    "defuncions_di_ries": "0",
+    "total_de_casos_confirmats": "60927",
+    "total_de_defuncions": "5666"
+  },
+  {
+    "data": "2020-06-23T00:00:00.000",
+    "nous_casos_diaris_confirmats": "28",
+    "defuncions_di_ries": "0",
+    "total_de_casos_confirmats": "60847",
+    "total_de_defuncions": "5666"
+  },
+  {
+    "data": "2020-06-22T00:00:00.000",
+    "nous_casos_diaris_confirmats": "15",
+    "defuncions_di_ries": "0",
+    "total_de_casos_confirmats": "60754",
+    "total_de_defuncions": "5666"
+  },
+  {
+    "data": "2020-06-21T00:00:00.000",
+    "nous_casos_diaris_confirmats": "24",
+    "defuncions_di_ries": "1",
+    "total_de_casos_confirmats": "60714",
+    "total_de_defuncions": "5666"
+  },
+  {
+    "data": "2020-06-20T00:00:00.000",
+    "nous_casos_diaris_confirmats": "23",
+    "defuncions_di_ries": "3",
+    "total_de_casos_confirmats": "60645",
+    "total_de_defuncions": "5666"
+  },
+  {
+    "data": "2020-06-19T00:00:00.000",
+    "nous_casos_diaris_confirmats": "25",
+    "defuncions_di_ries": "5",
+    "total_de_casos_confirmats": "60530",
+    "total_de_defuncions": "5666"
+  },
+  {
+    "data": "2020-06-18T00:00:00.000",
+    "nous_casos_diaris_confirmats": "32",
+    "defuncions_di_ries": "3",
+    "total_de_casos_confirmats": "60450",
+    "total_de_defuncions": "5662"
+  },
+  {
+    "data": "2020-06-17T00:00:00.000",
+    "nous_casos_diaris_confirmats": "16",
+    "defuncions_di_ries": "3",
+    "total_de_casos_confirmats": "60340",
+    "total_de_defuncions": "5587"
+  },
+  {
+    "data": "2020-06-16T00:00:00.000",
+    "nous_casos_diaris_confirmats": "23",
+    "defuncions_di_ries": "5",
+    "total_de_casos_confirmats": "60030",
+    "total_de_defuncions": "5587"
+  },
+  {
+    "data": "2020-06-15T00:00:00.000",
+    "nous_casos_diaris_confirmats": "14",
+    "defuncions_di_ries": "3",
+    "total_de_casos_confirmats": "59944",
+    "total_de_defuncions": "5587"
+  },
+  {
+    "data": "2020-06-14T00:00:00.000",
+    "nous_casos_diaris_confirmats": "17",
+    "defuncions_di_ries": "1",
+    "total_de_casos_confirmats": "59897",
+    "total_de_defuncions": "5587"
+  },
+  {
+    "data": "2020-06-13T00:00:00.000",
+    "nous_casos_diaris_confirmats": "7",
+    "defuncions_di_ries": "2",
+    "total_de_casos_confirmats": "59820",
+    "total_de_defuncions": "5587"
+  },
+  {
+    "data": "2020-06-12T00:00:00.000",
+    "nous_casos_diaris_confirmats": "21",
+    "defuncions_di_ries": "0",
+    "total_de_casos_confirmats": "59706",
+    "total_de_defuncions": "5587"
+  },
+  {
+    "data": "2020-06-11T00:00:00.000",
+    "nous_casos_diaris_confirmats": "33",
+    "defuncions_di_ries": "0",
+    "total_de_casos_confirmats": "59593",
+    "total_de_defuncions": "5587"
+  },
+  {
+    "data": "2020-06-10T00:00:00.000",
+    "nous_casos_diaris_confirmats": "27",
+    "defuncions_di_ries": "3",
+    "total_de_casos_confirmats": "59423",
+    "total_de_defuncions": "5587"
+  },
+  {
+    "data": "2020-06-09T00:00:00.000",
+    "nous_casos_diaris_confirmats": "36",
+    "defuncions_di_ries": "3",
+    "total_de_casos_confirmats": "59298",
+    "total_de_defuncions": "5587"
+  },
+  {
+    "data": "2020-06-08T00:00:00.000",
+    "nous_casos_diaris_confirmats": "17",
+    "defuncions_di_ries": "4",
+    "total_de_casos_confirmats": "59232",
+    "total_de_defuncions": "5587"
+  },
+  {
+    "data": "2020-06-07T00:00:00.000",
+    "nous_casos_diaris_confirmats": "6",
+    "defuncions_di_ries": "5",
+    "total_de_casos_confirmats": "59215",
+    "total_de_defuncions": "5587"
+  },
+  {
+    "data": "2020-06-06T00:00:00.000",
+    "nous_casos_diaris_confirmats": "10",
+    "defuncions_di_ries": "9",
+    "total_de_casos_confirmats": "59209",
+    "total_de_defuncions": "5587"
+  },
+  {
+    "data": "2020-06-05T00:00:00.000",
+    "nous_casos_diaris_confirmats": "24",
+    "defuncions_di_ries": "4",
+    "total_de_casos_confirmats": "59199",
+    "total_de_defuncions": "5587"
+  },
+  {
+    "data": "2020-06-04T00:00:00.000",
+    "nous_casos_diaris_confirmats": "19",
+    "defuncions_di_ries": "7",
+    "total_de_casos_confirmats": "59182",
+    "total_de_defuncions": "5587"
+  },
+  {
+    "data": "2020-06-03T00:00:00.000",
+    "nous_casos_diaris_confirmats": "51",
+    "defuncions_di_ries": "7",
+    "total_de_casos_confirmats": "59163",
+    "total_de_defuncions": "5587"
+  },
+  {
+    "data": "2020-06-02T00:00:00.000",
+    "nous_casos_diaris_confirmats": "38",
+    "defuncions_di_ries": "8",
+    "total_de_casos_confirmats": "59112",
+    "total_de_defuncions": "5587"
+  },
+  {
+    "data": "2020-06-01T00:00:00.000",
+    "nous_casos_diaris_confirmats": "17",
+    "defuncions_di_ries": "9",
+    "total_de_casos_confirmats": "59035",
+    "total_de_defuncions": "5587"
+  },
+  {
+    "data": "2020-05-31T00:00:00.000",
+    "nous_casos_diaris_confirmats": "16",
+    "defuncions_di_ries": "11",
+    "total_de_casos_confirmats": "59019",
+    "total_de_defuncions": "5587"
+  },
+  {
+    "data": "2020-05-30T00:00:00.000",
+    "nous_casos_diaris_confirmats": "10",
+    "defuncions_di_ries": "11",
+    "total_de_casos_confirmats": "59013",
+    "total_de_defuncions": "5587"
+  },
+  {
+    "data": "2020-05-29T00:00:00.000",
+    "nous_casos_diaris_confirmats": "88",
+    "defuncions_di_ries": "13",
+    "total_de_casos_confirmats": "59003",
+    "total_de_defuncions": "5587"
+  },
+  {
+    "data": "2020-05-28T00:00:00.000",
+    "nous_casos_diaris_confirmats": "47",
+    "defuncions_di_ries": "8",
+    "total_de_casos_confirmats": "58699",
+    "total_de_defuncions": "5584"
+  },
+  {
+    "data": "2020-05-27T00:00:00.000",
+    "nous_casos_diaris_confirmats": "39",
+    "defuncions_di_ries": "8",
+    "total_de_casos_confirmats": "58427",
+    "total_de_defuncions": "5584"
+  },
+  {
+    "data": "2020-05-26T00:00:00.000",
+    "nous_casos_diaris_confirmats": "93",
+    "defuncions_di_ries": "9",
+    "total_de_casos_confirmats": "57749",
+    "total_de_defuncions": "5583"
+  },
+  {
+    "data": "2020-05-25T00:00:00.000",
+    "nous_casos_diaris_confirmats": "115",
+    "defuncions_di_ries": "9",
+    "total_de_casos_confirmats": "57569",
+    "total_de_defuncions": "5583"
+  },
+  {
+    "data": "2020-05-24T00:00:00.000",
+    "nous_casos_diaris_confirmats": "89",
+    "defuncions_di_ries": "3",
+    "total_de_casos_confirmats": "57320",
+    "total_de_defuncions": "5575"
+  },
+  {
+    "data": "2020-05-23T00:00:00.000",
+    "nous_casos_diaris_confirmats": "52",
+    "defuncions_di_ries": "31",
+    "total_de_casos_confirmats": "58791",
+    "total_de_defuncions": "6701"
+  },
+  {
+    "data": "2020-05-22T00:00:00.000",
+    "nous_casos_diaris_confirmats": "92",
+    "defuncions_di_ries": "7",
+    "total_de_casos_confirmats": "58757",
+    "total_de_defuncions": "6663"
+  },
+  {
+    "data": "2020-05-21T00:00:00.000",
+    "nous_casos_diaris_confirmats": "150",
+    "defuncions_di_ries": "3",
+    "total_de_casos_confirmats": "58679",
+    "total_de_defuncions": "6656"
+  },
+  {
+    "data": "2020-05-20T00:00:00.000",
+    "nous_casos_diaris_confirmats": "0",
+    "defuncions_di_ries": "0",
+    "total_de_casos_confirmats": "57531",
+    "total_de_defuncions": "6021"
+  },
+  {
+    "data": "2020-05-19T00:00:00.000",
+    "nous_casos_diaris_confirmats": "63",
+    "defuncions_di_ries": "40",
+    "total_de_casos_confirmats": "57531",
+    "total_de_defuncions": "6021"
+  },
+  {
+    "data": "2020-05-18T00:00:00.000",
+    "nous_casos_diaris_confirmats": "51",
+    "defuncions_di_ries": "25",
+    "total_de_casos_confirmats": "57468",
+    "total_de_defuncions": "5981"
+  },
+  {
+    "data": "2020-05-17T00:00:00.000",
+    "nous_casos_diaris_confirmats": "85",
+    "defuncions_di_ries": "12",
+    "total_de_casos_confirmats": "57564",
+    "total_de_defuncions": "5956"
+  },
+  {
+    "data": "2020-05-16T00:00:00.000",
+    "nous_casos_diaris_confirmats": "116",
+    "defuncions_di_ries": "29",
+    "altes_di_ries": "105",
+    "total_de_casos_confirmats": "57467",
+    "total_de_defuncions": "5944",
+    "total_d_altes": "26172"
+  },
+  {
+    "data": "2020-05-15T00:00:00.000",
+    "nous_casos_diaris_confirmats": "123",
+    "defuncions_di_ries": "33",
+    "altes_di_ries": "163",
+    "total_de_casos_confirmats": "57328",
+    "total_de_defuncions": "5915",
+    "total_d_altes": "26067"
+  },
+  {
+    "data": "2020-05-14T00:00:00.000",
+    "nous_casos_diaris_confirmats": "151",
+    "defuncions_di_ries": "59",
+    "altes_di_ries": "55",
+    "total_de_casos_confirmats": "57107",
+    "total_de_defuncions": "5882",
+    "total_d_altes": "25904"
+  },
+  {
+    "data": "2020-05-13T00:00:00.000",
+    "nous_casos_diaris_confirmats": "202",
+    "defuncions_di_ries": "131",
+    "altes_di_ries": "523",
+    "total_de_casos_confirmats": "57125",
+    "total_de_defuncions": "5823",
+    "total_d_altes": "25849"
+  },
+  {
+    "data": "2020-05-12T00:00:00.000",
+    "nous_casos_diaris_confirmats": "136",
+    "defuncions_di_ries": "71",
+    "altes_di_ries": "360",
+    "total_de_casos_confirmats": "56923",
+    "total_de_defuncions": "5692",
+    "total_d_altes": "25326"
+  },
+  {
+    "data": "2020-05-11T00:00:00.000",
+    "nous_casos_diaris_confirmats": "184",
+    "defuncions_di_ries": "66",
+    "altes_di_ries": "512",
+    "total_de_casos_confirmats": "56787",
+    "total_de_defuncions": "5621",
+    "total_d_altes": "24966"
+  },
+  {
+    "data": "2020-05-10T00:00:00.000",
+    "nous_casos_diaris_confirmats": "83",
+    "defuncions_di_ries": "23",
+    "altes_di_ries": "105",
+    "total_de_casos_confirmats": "56450",
+    "total_de_defuncions": "5555",
+    "total_d_altes": "24454"
+  },
+  {
+    "data": "2020-05-09T00:00:00.000",
+    "nous_casos_diaris_confirmats": "151",
+    "defuncions_di_ries": "25",
+    "altes_di_ries": "286",
+    "total_de_casos_confirmats": "53729",
+    "total_de_defuncions": "5532",
+    "total_d_altes": "24349"
+  },
+  {
+    "data": "2020-05-08T00:00:00.000",
+    "nous_casos_diaris_confirmats": "369",
+    "defuncions_di_ries": "36",
+    "altes_di_ries": "399",
+    "total_de_casos_confirmats": "53578",
+    "total_de_defuncions": "5507",
+    "total_d_altes": "24063"
+  },
+  {
+    "data": "2020-05-07T00:00:00.000",
+    "nous_casos_diaris_confirmats": "704",
+    "defuncions_di_ries": "77",
+    "altes_di_ries": "433",
+    "total_de_casos_confirmats": "53209",
+    "total_de_defuncions": "5471",
+    "total_d_altes": "23664"
+  },
+  {
+    "data": "2020-05-06T00:00:00.000",
+    "nous_casos_diaris_confirmats": "415",
+    "defuncions_di_ries": "49",
+    "altes_di_ries": "350",
+    "total_de_casos_confirmats": "52505",
+    "total_de_defuncions": "5394",
+    "total_d_altes": "23231"
+  },
+  {
+    "data": "2020-05-05T00:00:00.000",
+    "nous_casos_diaris_confirmats": "292",
+    "defuncions_di_ries": "75",
+    "altes_di_ries": "328",
+    "total_de_casos_confirmats": "52090",
+    "total_de_defuncions": "5345",
+    "total_d_altes": "22881"
+  },
+  {
+    "data": "2020-05-04T00:00:00.000",
+    "nous_casos_diaris_confirmats": "405",
+    "defuncions_di_ries": "50",
+    "altes_di_ries": "655",
+    "total_de_casos_confirmats": "51798",
+    "total_de_defuncions": "5270",
+    "total_d_altes": "22553"
+  },
+  {
+    "data": "2020-05-03T00:00:00.000",
+    "nous_casos_diaris_confirmats": "132",
+    "defuncions_di_ries": "35",
+    "altes_di_ries": "1566",
+    "total_de_casos_confirmats": "51393",
+    "total_de_defuncions": "5220",
+    "total_d_altes": "21898"
+  },
+  {
+    "data": "2020-05-02T00:00:00.000",
+    "nous_casos_diaris_confirmats": "384",
+    "defuncions_di_ries": "48",
+    "altes_di_ries": "419",
+    "total_de_casos_confirmats": "51261",
+    "total_de_defuncions": "5185",
+    "total_d_altes": "20332"
+  },
+  {
+    "data": "2020-05-01T00:00:00.000",
+    "nous_casos_diaris_confirmats": "543",
+    "defuncions_di_ries": "76",
+    "altes_di_ries": "273",
+    "total_de_casos_confirmats": "50877",
+    "total_de_defuncions": "5137",
+    "total_d_altes": "19913"
+  },
+  {
+    "data": "2020-04-30T00:00:00.000",
+    "nous_casos_diaris_confirmats": "391",
+    "defuncions_di_ries": "86",
+    "altes_di_ries": "25",
+    "total_de_casos_confirmats": "50334",
+    "total_de_defuncions": "5061",
+    "total_d_altes": "19640"
+  },
+  {
+    "data": "2020-04-29T00:00:00.000",
+    "nous_casos_diaris_confirmats": "262",
+    "defuncions_di_ries": "70",
+    "altes_di_ries": "555",
+    "total_de_casos_confirmats": "49943",
+    "total_de_defuncions": "4975",
+    "total_d_altes": "19615"
+  },
+  {
+    "data": "2020-04-28T00:00:00.000",
+    "nous_casos_diaris_confirmats": "496",
+    "defuncions_di_ries": "97",
+    "altes_di_ries": "741",
+    "total_de_casos_confirmats": "49681",
+    "total_de_defuncions": "4905",
+    "total_d_altes": "19060"
+  },
+  {
+    "data": "2020-04-27T00:00:00.000",
+    "nous_casos_diaris_confirmats": "403",
+    "defuncions_di_ries": "109",
+    "altes_di_ries": "422",
+    "total_de_casos_confirmats": "49185",
+    "total_de_defuncions": "4808",
+    "total_d_altes": "18319"
+  },
+  {
+    "data": "2020-04-26T00:00:00.000",
+    "nous_casos_diaris_confirmats": "944",
+    "defuncions_di_ries": "133",
+    "altes_di_ries": "891",
+    "total_de_casos_confirmats": "48782",
+    "total_de_defuncions": "4699",
+    "total_d_altes": "17897"
+  },
+  {
+    "data": "2020-04-25T00:00:00.000",
+    "nous_casos_diaris_confirmats": "550",
+    "defuncions_di_ries": "68",
+    "altes_di_ries": "253",
+    "total_de_casos_confirmats": "47838",
+    "total_de_defuncions": "4566",
+    "total_d_altes": "17006"
+  },
+  {
+    "data": "2020-04-24T00:00:00.000",
+    "nous_casos_diaris_confirmats": "717",
+    "defuncions_di_ries": "105",
+    "altes_di_ries": "615",
+    "total_de_casos_confirmats": "47288",
+    "total_de_defuncions": "4498",
+    "total_d_altes": "16753"
+  },
+  {
+    "data": "2020-04-23T00:00:00.000",
+    "nous_casos_diaris_confirmats": "1679",
+    "defuncions_di_ries": "50",
+    "altes_di_ries": "661",
+    "total_de_casos_confirmats": "46571",
+    "total_de_defuncions": "4393",
+    "total_d_altes": "16138"
+  },
+  {
+    "data": "2020-04-22T00:00:00.000",
+    "nous_casos_diaris_confirmats": "1090",
+    "defuncions_di_ries": "96",
+    "altes_di_ries": "388",
+    "total_de_casos_confirmats": "44892",
+    "total_de_defuncions": "4343",
+    "total_d_altes": "15477"
+  },
+  {
+    "data": "2020-04-21T00:00:00.000",
+    "nous_casos_diaris_confirmats": "690",
+    "defuncions_di_ries": "95",
+    "altes_di_ries": "643",
+    "total_de_casos_confirmats": "43802",
+    "total_de_defuncions": "4247",
+    "total_d_altes": "15089"
+  },
+  {
+    "data": "2020-04-20T00:00:00.000",
+    "nous_casos_diaris_confirmats": "1436",
+    "defuncions_di_ries": "143",
+    "altes_di_ries": "512",
+    "total_de_casos_confirmats": "43112",
+    "total_de_defuncions": "4152",
+    "total_d_altes": "14446"
+  },
+  {
+    "data": "2020-04-19T00:00:00.000",
+    "nous_casos_diaris_confirmats": "1076",
+    "defuncions_di_ries": "76",
+    "altes_di_ries": "243",
+    "total_de_casos_confirmats": "41676",
+    "total_de_defuncions": "4009",
+    "total_d_altes": "13934"
+  },
+  {
+    "data": "2020-04-18T00:00:00.000",
+    "nous_casos_diaris_confirmats": "657",
+    "defuncions_di_ries": "54",
+    "altes_di_ries": "416",
+    "total_de_casos_confirmats": "40600",
+    "total_de_defuncions": "3933",
+    "total_d_altes": "13691"
+  },
+  {
+    "data": "2020-04-17T00:00:00.000",
+    "nous_casos_diaris_confirmats": "1627",
+    "defuncions_di_ries": "127",
+    "altes_di_ries": "488",
+    "total_de_casos_confirmats": "39943",
+    "total_de_defuncions": "3879",
+    "total_d_altes": "13275"
+  },
+  {
+    "data": "2020-04-16T00:00:00.000",
+    "nous_casos_diaris_confirmats": "962",
+    "defuncions_di_ries": "134",
+    "altes_di_ries": "826",
+    "total_de_casos_confirmats": "38316",
+    "total_de_defuncions": "3752",
+    "total_d_altes": "12787"
+  },
+  {
+    "data": "2020-04-15T00:00:00.000",
+    "nous_casos_diaris_confirmats": "849",
+    "defuncions_di_ries": "99",
+    "altes_di_ries": "646",
+    "total_de_casos_confirmats": "37354",
+    "total_de_defuncions": "3855",
+    "total_d_altes": "17297"
+  },
+  {
+    "data": "2020-04-14T00:00:00.000",
+    "nous_casos_diaris_confirmats": "1308",
+    "defuncions_di_ries": "90",
+    "altes_di_ries": "684",
+    "total_de_casos_confirmats": "36505",
+    "total_de_defuncions": "3756",
+    "total_d_altes": "16651"
+  },
+  {
+    "data": "2020-04-13T00:00:00.000",
+    "nous_casos_diaris_confirmats": "471",
+    "defuncions_di_ries": "128",
+    "altes_di_ries": "365",
+    "total_de_casos_confirmats": "35197",
+    "total_de_defuncions": "3666",
+    "total_d_altes": "15967"
+  },
+  {
+    "data": "2020-04-12T00:00:00.000",
+    "nous_casos_diaris_confirmats": "699",
+    "defuncions_di_ries": "96",
+    "altes_di_ries": "627",
+    "total_de_casos_confirmats": "34726",
+    "total_de_defuncions": "3538",
+    "total_d_altes": "15602"
+  },
+  {
+    "data": "2020-04-11T00:00:00.000",
+    "nous_casos_diaris_confirmats": "1043",
+    "defuncions_di_ries": "111",
+    "altes_di_ries": "677",
+    "total_de_casos_confirmats": "34027",
+    "total_de_defuncions": "3442",
+    "total_d_altes": "14975"
+  },
+  {
+    "data": "2020-04-10T00:00:00.000",
+    "nous_casos_diaris_confirmats": "1257",
+    "defuncions_di_ries": "100",
+    "altes_di_ries": "785",
+    "total_de_casos_confirmats": "32984",
+    "total_de_defuncions": "3331",
+    "total_d_altes": "14298"
+  },
+  {
+    "data": "2020-04-09T00:00:00.000",
+    "nous_casos_diaris_confirmats": "684",
+    "defuncions_di_ries": "83",
+    "altes_di_ries": "450",
+    "total_de_casos_confirmats": "31727",
+    "total_de_defuncions": "3231",
+    "total_d_altes": "13513"
+  },
+  {
+    "data": "2020-04-08T00:00:00.000",
+    "nous_casos_diaris_confirmats": "1396",
+    "defuncions_di_ries": "107",
+    "altes_di_ries": "813",
+    "total_de_casos_confirmats": "31043",
+    "total_de_defuncions": "3148",
+    "total_d_altes": "13063"
+  },
+  {
+    "data": "2020-04-07T00:00:00.000",
+    "nous_casos_diaris_confirmats": "1324",
+    "defuncions_di_ries": "133",
+    "altes_di_ries": "1512",
+    "total_de_casos_confirmats": "29647",
+    "total_de_defuncions": "3041",
+    "total_d_altes": "12250"
+  },
+  {
     "data": "2020-04-06T00:00:00.000",
     "nous_casos_diaris_confirmats": "1499",
     "defuncions_di_ries": "148",
-    "altes_hospital_ries_di_ries": "650",
-    "total_casos_confirmats": "28323",
-    "total_defuncions": "2908",
-    "total_altes_hospital_ries": "10738"
+    "altes_di_ries": "650",
+    "total_de_casos_confirmats": "28323",
+    "total_de_defuncions": "2908",
+    "total_d_altes": "10738"
   },
   {
     "data": "2020-04-05T00:00:00.000",
     "nous_casos_diaris_confirmats": "792",
     "defuncions_di_ries": "123",
-    "altes_hospital_ries_di_ries": "560",
-    "total_casos_confirmats": "26824",
-    "total_defuncions": "2760",
-    "total_altes_hospital_ries": "10088"
+    "altes_di_ries": "560",
+    "total_de_casos_confirmats": "26824",
+    "total_de_defuncions": "2760",
+    "total_d_altes": "10088"
   },
   {
     "data": "2020-04-04T00:00:00.000",
     "nous_casos_diaris_confirmats": "1298",
     "defuncions_di_ries": "129",
-    "altes_hospital_ries_di_ries": "893",
-    "total_casos_confirmats": "26032",
-    "total_defuncions": "2637",
-    "total_altes_hospital_ries": "9528"
+    "altes_di_ries": "893",
+    "total_de_casos_confirmats": "26032",
+    "total_de_defuncions": "2637",
+    "total_d_altes": "9528"
   },
   {
     "data": "2020-04-03T00:00:00.000",
     "nous_casos_diaris_confirmats": "1274",
     "defuncions_di_ries": "173",
-    "altes_hospital_ries_di_ries": "786",
-    "total_casos_confirmats": "24734",
-    "total_defuncions": "2508",
-    "total_altes_hospital_ries": "8635"
+    "altes_di_ries": "786",
+    "total_de_casos_confirmats": "24734",
+    "total_de_defuncions": "2508",
+    "total_d_altes": "8635"
   },
   {
     "data": "2020-04-02T00:00:00.000",
     "nous_casos_diaris_confirmats": "1656",
     "defuncions_di_ries": "242",
-    "altes_hospital_ries_di_ries": "932",
-    "total_casos_confirmats": "23460",
-    "total_defuncions": "2335",
-    "total_altes_hospital_ries": "7849"
+    "altes_di_ries": "932",
+    "total_de_casos_confirmats": "23460",
+    "total_de_defuncions": "2335",
+    "total_d_altes": "7849"
   },
   {
     "data": "2020-04-01T00:00:00.000",
     "nous_casos_diaris_confirmats": "1813",
     "defuncions_di_ries": "244",
-    "altes_hospital_ries_di_ries": "1216",
-    "total_casos_confirmats": "21804",
-    "total_defuncions": "2093",
-    "total_altes_hospital_ries": "6917"
+    "altes_di_ries": "1216",
+    "total_de_casos_confirmats": "21804",
+    "total_de_defuncions": "2093",
+    "total_d_altes": "6917"
   },
   {
     "data": "2020-03-31T00:00:00.000",
     "nous_casos_diaris_confirmats": "1218",
     "defuncions_di_ries": "177",
-    "altes_hospital_ries_di_ries": "735",
-    "total_casos_confirmats": "19991",
-    "total_defuncions": "1849",
-    "total_altes_hospital_ries": "5701"
+    "altes_di_ries": "735",
+    "total_de_casos_confirmats": "19991",
+    "total_de_defuncions": "1849",
+    "total_d_altes": "5701"
   },
   {
     "data": "2020-03-30T00:00:00.000",
     "nous_casos_diaris_confirmats": "2616",
     "defuncions_di_ries": "262",
-    "altes_hospital_ries_di_ries": "841",
-    "total_casos_confirmats": "18773",
-    "total_defuncions": "1672",
-    "total_altes_hospital_ries": "4966"
+    "altes_di_ries": "841",
+    "total_de_casos_confirmats": "18773",
+    "total_de_defuncions": "1672",
+    "total_d_altes": "4966"
   },
   {
     "data": "2020-03-29T00:00:00.000",
     "nous_casos_diaris_confirmats": "1131",
     "defuncions_di_ries": "184",
-    "altes_hospital_ries_di_ries": "670",
-    "total_casos_confirmats": "16157",
-    "total_defuncions": "1410",
-    "total_altes_hospital_ries": "4125"
+    "altes_di_ries": "670",
+    "total_de_casos_confirmats": "16157",
+    "total_de_defuncions": "1410",
+    "total_d_altes": "4125"
   },
   {
     "data": "2020-03-28T00:00:00.000",
     "nous_casos_diaris_confirmats": "763",
     "defuncions_di_ries": "156",
-    "altes_hospital_ries_di_ries": "349",
-    "total_casos_confirmats": "15026",
-    "total_defuncions": "1226",
-    "total_altes_hospital_ries": "3455"
+    "altes_di_ries": "349",
+    "total_de_casos_confirmats": "15026",
+    "total_de_defuncions": "1226",
+    "total_d_altes": "3455"
   },
   {
     "data": "2020-03-27T00:00:00.000",
     "nous_casos_diaris_confirmats": "1323",
     "defuncions_di_ries": "190",
-    "altes_hospital_ries_di_ries": "722",
-    "total_casos_confirmats": "14263",
-    "total_defuncions": "1070",
-    "total_altes_hospital_ries": "3106"
+    "altes_di_ries": "722",
+    "total_de_casos_confirmats": "14263",
+    "total_de_defuncions": "1070",
+    "total_d_altes": "3106"
   },
   {
     "data": "2020-03-26T00:00:00.000",
     "nous_casos_diaris_confirmats": "1348",
     "defuncions_di_ries": "208",
-    "altes_hospital_ries_di_ries": "687",
-    "total_casos_confirmats": "12940",
-    "total_defuncions": "880",
-    "total_altes_hospital_ries": "2384"
+    "altes_di_ries": "687",
+    "total_de_casos_confirmats": "12940",
+    "total_de_defuncions": "880",
+    "total_d_altes": "2384"
   },
   {
     "data": "2020-03-25T00:00:00.000",
     "nous_casos_diaris_confirmats": "1655",
     "defuncions_di_ries": "156",
-    "altes_hospital_ries_di_ries": "423",
-    "total_casos_confirmats": "11592",
-    "total_defuncions": "672",
-    "total_altes_hospital_ries": "1697"
+    "altes_di_ries": "423",
+    "total_de_casos_confirmats": "11592",
+    "total_de_defuncions": "672",
+    "total_d_altes": "1697"
   },
   {
     "data": "2020-03-24T00:00:00.000",
     "nous_casos_diaris_confirmats": "2073",
     "defuncions_di_ries": "177",
-    "altes_hospital_ries_di_ries": "519",
-    "total_casos_confirmats": "9937",
-    "total_defuncions": "516",
-    "total_altes_hospital_ries": "1274"
+    "altes_di_ries": "519",
+    "total_de_casos_confirmats": "9937",
+    "total_de_defuncions": "516",
+    "total_d_altes": "1274"
   },
   {
     "data": "2020-03-23T00:00:00.000",
     "nous_casos_diaris_confirmats": "1939",
     "defuncions_di_ries": "94",
-    "altes_hospital_ries_di_ries": "27",
-    "total_casos_confirmats": "7864",
-    "total_defuncions": "339",
-    "total_altes_hospital_ries": "755"
+    "altes_di_ries": "27",
+    "total_de_casos_confirmats": "7864",
+    "total_de_defuncions": "339",
+    "total_d_altes": "755"
   },
   {
     "data": "2020-03-22T00:00:00.000",
     "nous_casos_diaris_confirmats": "1221",
     "defuncions_di_ries": "54",
-    "altes_hospital_ries_di_ries": "84",
-    "total_casos_confirmats": "5925",
-    "total_defuncions": "245",
-    "total_altes_hospital_ries": "728"
+    "altes_di_ries": "84",
+    "total_de_casos_confirmats": "5925",
+    "total_de_defuncions": "245",
+    "total_d_altes": "728"
   },
   {
     "data": "2020-03-21T00:00:00.000",
     "nous_casos_diaris_confirmats": "501",
     "defuncions_di_ries": "69",
-    "altes_hospital_ries_di_ries": "494",
-    "total_casos_confirmats": "4704",
-    "total_defuncions": "191",
-    "total_altes_hospital_ries": "644"
+    "altes_di_ries": "494",
+    "total_de_casos_confirmats": "4704",
+    "total_de_defuncions": "191",
+    "total_d_altes": "644"
   },
   {
     "data": "2020-03-20T00:00:00.000",
     "nous_casos_diaris_confirmats": "933",
     "defuncions_di_ries": "40",
-    "altes_hospital_ries_di_ries": "68",
-    "total_casos_confirmats": "4203",
-    "total_defuncions": "122",
-    "total_altes_hospital_ries": "150"
+    "altes_di_ries": "68",
+    "total_de_casos_confirmats": "4203",
+    "total_de_defuncions": "122",
+    "total_d_altes": "150"
   },
   {
     "data": "2020-03-19T00:00:00.000",
     "nous_casos_diaris_confirmats": "568",
     "defuncions_di_ries": "27",
-    "altes_hospital_ries_di_ries": "68",
-    "total_casos_confirmats": "3270",
-    "total_defuncions": "82",
-    "total_altes_hospital_ries": "82"
+    "total_de_casos_confirmats": "3270",
+    "total_de_defuncions": "82",
+    "total_d_altes": "82"
   },
   {
     "data": "2020-03-18T00:00:00.000",
     "nous_casos_diaris_confirmats": "836",
     "defuncions_di_ries": "14",
-    "altes_hospital_ries_di_ries": "68",
-    "total_casos_confirmats": "2702",
-    "total_defuncions": "55",
-    "total_altes_hospital_ries": "82"
+    "total_de_casos_confirmats": "2702",
+    "total_de_defuncions": "55"
   },
   {
     "data": "2020-03-17T00:00:00.000",
     "nous_casos_diaris_confirmats": "472",
     "defuncions_di_ries": "23",
-    "altes_hospital_ries_di_ries": "68",
-    "total_casos_confirmats": "1866",
-    "total_defuncions": "41",
-    "total_altes_hospital_ries": "82"
+    "total_de_casos_confirmats": "1866",
+    "total_de_defuncions": "41"
   },
   {
     "data": "2020-03-16T00:00:00.000",
     "nous_casos_diaris_confirmats": "491",
     "defuncions_di_ries": "6",
-    "altes_hospital_ries_di_ries": "68",
-    "total_casos_confirmats": "1394",
-    "total_defuncions": "18",
-    "total_altes_hospital_ries": "82"
+    "total_de_casos_confirmats": "1394",
+    "total_de_defuncions": "18"
   },
   {
     "data": "2020-03-15T00:00:00.000",
     "nous_casos_diaris_confirmats": "188",
     "defuncions_di_ries": "4",
-    "altes_hospital_ries_di_ries": "68",
-    "total_casos_confirmats": "903",
-    "total_defuncions": "12",
-    "total_altes_hospital_ries": "82"
+    "total_de_casos_confirmats": "903",
+    "total_de_defuncions": "12"
   },
   {
     "data": "2020-03-14T00:00:00.000",
     "nous_casos_diaris_confirmats": "206",
     "defuncions_di_ries": "2",
-    "altes_hospital_ries_di_ries": "68",
-    "total_casos_confirmats": "715",
-    "total_defuncions": "8",
-    "total_altes_hospital_ries": "82"
+    "total_de_casos_confirmats": "715",
+    "total_de_defuncions": "8"
   },
   {
     "data": "2020-03-13T00:00:00.000",
     "nous_casos_diaris_confirmats": "190",
     "defuncions_di_ries": "0",
-    "altes_hospital_ries_di_ries": "68",
-    "total_casos_confirmats": "509",
-    "total_defuncions": "6",
-    "total_altes_hospital_ries": "82"
+    "total_de_casos_confirmats": "509",
+    "total_de_defuncions": "6"
   },
   {
     "data": "2020-03-12T00:00:00.000",
     "nous_casos_diaris_confirmats": "135",
     "defuncions_di_ries": "2",
-    "altes_hospital_ries_di_ries": "68",
-    "total_casos_confirmats": "319",
-    "total_defuncions": "6",
-    "total_altes_hospital_ries": "82"
+    "total_de_casos_confirmats": "319",
+    "total_de_defuncions": "6"
   },
   {
     "data": "2020-03-11T00:00:00.000",
     "nous_casos_diaris_confirmats": "55",
     "defuncions_di_ries": "1",
-    "altes_hospital_ries_di_ries": "68",
-    "total_casos_confirmats": "184",
-    "total_defuncions": "4",
-    "total_altes_hospital_ries": "82"
+    "total_de_casos_confirmats": "184",
+    "total_de_defuncions": "4"
   },
   {
     "data": "2020-03-10T00:00:00.000",
     "nous_casos_diaris_confirmats": "24",
     "defuncions_di_ries": "0",
-    "altes_hospital_ries_di_ries": "68",
-    "total_casos_confirmats": "129",
-    "total_defuncions": "3",
-    "total_altes_hospital_ries": "82"
+    "total_de_casos_confirmats": "129",
+    "total_de_defuncions": "3"
   },
   {
     "data": "2020-03-09T00:00:00.000",
     "nous_casos_diaris_confirmats": "23",
     "defuncions_di_ries": "2",
-    "altes_hospital_ries_di_ries": "68",
-    "total_casos_confirmats": "105",
-    "total_defuncions": "3",
-    "total_altes_hospital_ries": "82"
+    "total_de_casos_confirmats": "105",
+    "total_de_defuncions": "3"
   },
   {
     "data": "2020-03-08T00:00:00.000",
     "nous_casos_diaris_confirmats": "29",
     "defuncions_di_ries": "0",
-    "altes_hospital_ries_di_ries": "68",
-    "total_casos_confirmats": "82",
-    "total_defuncions": "1",
-    "total_altes_hospital_ries": "82"
+    "total_de_casos_confirmats": "82",
+    "total_de_defuncions": "1"
   },
   {
     "data": "2020-03-07T00:00:00.000",
     "nous_casos_diaris_confirmats": "13",
     "defuncions_di_ries": "0",
-    "altes_hospital_ries_di_ries": "68",
-    "total_casos_confirmats": "53",
-    "total_defuncions": "1",
-    "total_altes_hospital_ries": "82"
+    "total_de_casos_confirmats": "53",
+    "total_de_defuncions": "1"
   },
   {
     "data": "2020-03-06T00:00:00.000",
     "nous_casos_diaris_confirmats": "8",
     "defuncions_di_ries": "1",
-    "altes_hospital_ries_di_ries": "68",
-    "total_casos_confirmats": "40",
-    "total_defuncions": "1",
-    "total_altes_hospital_ries": "82"
+    "total_de_casos_confirmats": "40",
+    "total_de_defuncions": "1"
   },
   {
     "data": "2020-03-05T00:00:00.000",
     "nous_casos_diaris_confirmats": "5",
     "defuncions_di_ries": "0",
-    "altes_hospital_ries_di_ries": "68",
-    "total_casos_confirmats": "32",
-    "total_defuncions": "0",
-    "total_altes_hospital_ries": "82"
+    "total_de_casos_confirmats": "32",
+    "total_de_defuncions": "0"
   },
   {
     "data": "2020-03-04T00:00:00.000",
     "nous_casos_diaris_confirmats": "6",
     "defuncions_di_ries": "0",
-    "altes_hospital_ries_di_ries": "68",
-    "total_casos_confirmats": "27",
-    "total_defuncions": "0",
-    "total_altes_hospital_ries": "82"
+    "total_de_casos_confirmats": "27",
+    "total_de_defuncions": "0"
   },
   {
     "data": "2020-03-03T00:00:00.000",
     "nous_casos_diaris_confirmats": "4",
     "defuncions_di_ries": "0",
-    "altes_hospital_ries_di_ries": "68",
-    "total_casos_confirmats": "21",
-    "total_defuncions": "0",
-    "total_altes_hospital_ries": "82"
+    "total_de_casos_confirmats": "21",
+    "total_de_defuncions": "0"
   },
   {
     "data": "2020-03-02T00:00:00.000",
     "nous_casos_diaris_confirmats": "3",
     "defuncions_di_ries": "0",
-    "altes_hospital_ries_di_ries": "68",
-    "total_casos_confirmats": "17",
-    "total_defuncions": "0",
-    "total_altes_hospital_ries": "82"
+    "total_de_casos_confirmats": "17",
+    "total_de_defuncions": "0"
   },
   {
     "data": "2020-03-01T00:00:00.000",
     "nous_casos_diaris_confirmats": "5",
     "defuncions_di_ries": "0",
-    "altes_hospital_ries_di_ries": "68",
-    "total_casos_confirmats": "14",
-    "total_defuncions": "0",
-    "total_altes_hospital_ries": "82"
+    "total_de_casos_confirmats": "14",
+    "total_de_defuncions": "0"
   },
   {
     "data": "2020-02-29T00:00:00.000",
     "nous_casos_diaris_confirmats": "3",
     "defuncions_di_ries": "0",
-    "altes_hospital_ries_di_ries": "68",
-    "total_casos_confirmats": "9",
-    "total_defuncions": "0",
-    "total_altes_hospital_ries": "82"
+    "total_de_casos_confirmats": "9",
+    "total_de_defuncions": "0"
   },
   {
     "data": "2020-02-28T00:00:00.000",
     "nous_casos_diaris_confirmats": "3",
     "defuncions_di_ries": "0",
-    "altes_hospital_ries_di_ries": "68",
-    "total_casos_confirmats": "6",
-    "total_defuncions": "0",
-    "total_altes_hospital_ries": "82"
+    "total_de_casos_confirmats": "6",
+    "total_de_defuncions": "0"
   },
   {
     "data": "2020-02-27T00:00:00.000",
     "nous_casos_diaris_confirmats": "0",
     "defuncions_di_ries": "0",
-    "altes_hospital_ries_di_ries": "68",
-    "total_casos_confirmats": "3",
-    "total_defuncions": "0",
-    "total_altes_hospital_ries": "82"
+    "total_de_casos_confirmats": "3",
+    "total_de_defuncions": "0"
   },
   {
     "data": "2020-02-26T00:00:00.000",
     "nous_casos_diaris_confirmats": "1",
     "defuncions_di_ries": "0",
-    "total_casos_confirmats": "3",
-    "total_defuncions": "0"
+    "total_de_casos_confirmats": "3",
+    "total_de_defuncions": "0"
   },
   {
     "data": "2020-02-25T00:00:00.000",
     "nous_casos_diaris_confirmats": "1",
     "defuncions_di_ries": "0",
-    "total_casos_confirmats": "2",
-    "total_defuncions": "0"
+    "total_de_casos_confirmats": "2",
+    "total_de_defuncions": "0"
   },
   {
     "data": "2020-02-24T00:00:00.000",
     "nous_casos_diaris_confirmats": "1",
     "defuncions_di_ries": "0",
-    "total_casos_confirmats": "1",
-    "total_defuncions": "0"
+    "total_de_casos_confirmats": "1",
+    "total_de_defuncions": "0"
   }
 ]
