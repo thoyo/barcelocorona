@@ -10,7 +10,7 @@ run: build
 	docker run -it \
 	    --add-host grafana:$(DOCKER_LOCALHOST) \
 	    --add-host influxdb:$(DOCKER_LOCALHOST) \
-	    --network barcelocorona_private \
+	    --network deployment_private \
 	    --name $(DOCKER_NAME) \
 	    --rm $(DOCKER_NAME_FULL)
 
