@@ -21,7 +21,7 @@ services:
       - private
 
   barcelocorona:
-    image: barcelocorona:0.0.1
+    image: barcelocorona:0.0.3
     networks:
       - private
     depends_on:
