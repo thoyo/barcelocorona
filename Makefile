@@ -1,5 +1,5 @@
 DOCKER_NAME=barcelocorona
-VERSION=0.0.2
+VERSION=0.0.3
 DOCKER_NAME_FULL=$(DOCKER_NAME):$(VERSION)
 DOCKER_LOCALHOST=$(shell ip addr show docker0 | grep -Po 'inet \K[\d.]+')
 
