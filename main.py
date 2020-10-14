@@ -29,7 +29,10 @@ def db_inserter(measurements_dictionary):
                         "time": time
                     }
                 ]
-                client.write_points(point)
+                try:
+                    client.write_points(point)
+                except Exception as e:
+                    logging.error(e)
 
 
 def get_measurements(source):
