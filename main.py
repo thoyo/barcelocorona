@@ -32,7 +32,7 @@ def db_inserter(measurements_dictionary):
                 try:
                     client.write_points(point)
                 except Exception as e:
-                    logging.error(e)
+                    logging.error(f"Error writing point {point}: {e}")
 
 
 def get_measurements(source):
